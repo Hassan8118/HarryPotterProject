@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTvP4tTo3wMgMNFjeZoJHs8bxtJzpUumr/Ulbu/ly5aXVUDUqj8JCdRoSmuStqUtNXnezD2u8QX2LXSwM4OtAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mujta\\OneDrive\\Desktop\\repos\\HarryPotterRepo\\HarryPotterProject\\HarryPotterCharacters\\HarryPotterCharacters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mujta\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
